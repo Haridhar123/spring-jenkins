@@ -18,6 +18,8 @@ public class JenkinsdemoApplication {
 	}
 	public static void main(String[] args) {
 		log.info("bhbbhhb");
+		log.info("hi hello welcome buddy");
+
 		SpringApplication.run(JenkinsdemoApplication.class, args);
 		
 	}
